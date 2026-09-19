@@ -1,5 +1,5 @@
 #  About Me:
-🔭 I’m currently working on CODE-X <br>👯🌱 I’m currently learning REACT JS <br>💬 Ask me about ?<br>⚡ Fun fact I’m Mudassir Shaikh, a coder who’s always turning ideas into one-line wonders!
+🔭 I’m currently working on CODE-X <br>👯🌱 I’m currently learning Cloud Data Engineering <br>💬 Ask me about ?<br>⚡ Fun fact I’m Mudassir Shaikh, a coder who’s always turning ideas into one-line wonders!
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mudassirakram30@gmail.com) 
 
